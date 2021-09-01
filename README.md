@@ -1,14 +1,12 @@
 # RDP google
 
-### Go to 'https://colab.research.google.com/notebooks/intro.ipynb'
+### Go to
+'https://colab.research.google.com/notebooks/intro.ipynb'
 
-### Open notebooks
-
+###
 ```
 ! git clone https://github.com/ZAHHAR-ISMAIL/RDP.git
 ! chmod +x ./RDP/main/win10/RDP.sh
 ! ./RDP/main/win10/RDP.sh
 ```
-
-### Play
 
